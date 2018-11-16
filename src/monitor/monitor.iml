@@ -10,7 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="mainIO" />
-    <orderEntry type="module" module-name="compartor" />
+    <orderEntry type="module" module-name="comparator" />
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
