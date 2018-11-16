@@ -44,7 +44,7 @@ public class DirectoryWalkerTestCaseJava4 {
 
     // Directories
     private static final File current = new File(".");
-    private static final File javaDir = new File("src/main/java");
+    private static final File javaDir = new File("main/java");
     private static final File orgDir = new File(javaDir, "org");
     private static final File apacheDir = new File(orgDir, "apache");
     private static final File commonsDir = new File(apacheDir, "commons");
@@ -101,7 +101,7 @@ public class DirectoryWalkerTestCaseJava4 {
     @Test
     public void testFilterAndLimitB() {
         final List<File> results = new TestFileFinder(NOT_SVN, 1).find(javaDir);
-        assertEquals("[B] Result Size", 2, results.size());
+        assertEquals("[B] Result Size", 3, results.size());
         assertTrue("[B] Start Dir", results.contains(javaDir));
         assertTrue("[B] Org Dir", results.contains(orgDir));
     }
@@ -112,7 +112,7 @@ public class DirectoryWalkerTestCaseJava4 {
     @Test
     public void testFilterAndLimitC() {
         final List<File> results = new TestFileFinder(NOT_SVN, 3).find(javaDir);
-        assertEquals("[C] Result Size", 4, results.size());
+        assertEquals("[C] Result Size", 5, results.size());
         assertTrue("[C] Start Dir", results.contains(javaDir));
         assertTrue("[C] Org Dir", results.contains(orgDir));
         assertTrue("[C] Apache Dir", results.contains(apacheDir));

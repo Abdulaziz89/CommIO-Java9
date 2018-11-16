@@ -904,7 +904,7 @@ public class FileUtilsTestCase {
     // Compare sizes of a directory tree using long and BigInteger methods
     @Test
     public void testCompareSizeOf() {
-        final File start = new File("src/test/java");
+        final File start = new File("test/java");
         final long sizeLong1 = FileUtils.sizeOf(start);
         final BigInteger sizeBig = FileUtils.sizeOfAsBigInteger(start);
         final long sizeLong2 = FileUtils.sizeOf(start);
@@ -3084,7 +3084,8 @@ public class FileUtilsTestCase {
     // This test relies on FileUtils.copyFile using File.length to check the output size
     @Test
     public void testIncorrectOutputSize() throws Exception {
-        final File inFile = new File("pom.xml");
+        //final File inFile = new File("pom.xml");
+        final File inFile = new File("../../pom.xml");
         final File outFile = new ShorterFile("target/pom.tmp"); // it will report a shorter file
         try {
             FileUtils.copyFile(inFile, outFile);

@@ -193,15 +193,15 @@ public class FileFilterTestCase {
         // XXX: This test presumes the current working dir is the base dir of the source checkout.
         final IOFileFilter filter = new DirectoryFileFilter();
 
-        assertFiltering(filter, new File("src/"), true);
-        assertFiltering(filter, new File("src/main/java/"), true);
+        assertFiltering(filter, new File("../../src/"), true);
+        assertFiltering(filter, new File("../../src/monitor"), true);
 
-        assertFiltering(filter, new File("pom.xml"), false);
+        assertFiltering(filter, new File("../../pom.xml"), false);
 
-        assertFiltering(filter, new File("imaginary"), false);
-        assertFiltering(filter, new File("imaginary/"), false);
+        assertFiltering(filter, new File("../../imaginary"), false);
+        assertFiltering(filter, new File("../../imaginary/"), false);
 
-        assertFiltering(filter, new File("LICENSE.txt"), false);
+        assertFiltering(filter, new File("../../LICENSE.txt"), false);
 
         assertSame(DirectoryFileFilter.DIRECTORY, DirectoryFileFilter.INSTANCE);
     }
@@ -211,15 +211,18 @@ public class FileFilterTestCase {
         // XXX: This test presumes the current working dir is the base dir of the source checkout.
         final IOFileFilter filter = FileFileFilter.FILE;
 
-        assertFiltering(filter, new File("src/"), false);
-        assertFiltering(filter, new File("src/java/"), false);
 
-        assertFiltering(filter, new File("pom.xml"), true);
+        //assertFiltering(filter, new File("src/"), false);
+        assertFiltering(filter, new File("../../src/"), false);
 
-        assertFiltering(filter, new File("imaginary"), false);
-        assertFiltering(filter, new File("imaginary/"), false);
+        assertFiltering(filter, new File("../../src/java/"), false);
 
-        assertFiltering(filter, new File("LICENSE.txt"), true);
+        assertFiltering(filter, new File("../../pom.xml"), true);
+
+        assertFiltering(filter, new File("../../imaginary"), false);
+        assertFiltering(filter, new File("../../imaginary/"), false);
+
+        assertFiltering(filter, new File("../../LICENSE.txt"), true);
     }
 
     @Test

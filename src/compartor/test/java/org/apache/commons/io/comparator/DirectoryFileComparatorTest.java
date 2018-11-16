@@ -31,10 +31,10 @@ public class DirectoryFileComparatorTest extends ComparatorAbstractTestCase {
         comparator = (AbstractFileComparator) DirectoryFileComparator.DIRECTORY_COMPARATOR;
         reverse = DirectoryFileComparator.DIRECTORY_REVERSE;
         final File currentDir = new File(".");
-        equalFile1 = new File(currentDir, "src");
-        equalFile2 = new File(currentDir, "src/site/xdoc");
-        lessFile   = new File(currentDir, "src");
-        moreFile   = new File(currentDir, "pom.xml");
+        equalFile1 = new File(currentDir, "../../src");
+        equalFile2 = new File(currentDir, "../../src/mainIO/site/xdoc");
+        lessFile   = new File(currentDir, "../../src");
+        moreFile   = new File(currentDir, "../../pom.xml");
     }
 
     /**
