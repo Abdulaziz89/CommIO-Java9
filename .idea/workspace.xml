@@ -110,28 +110,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in comparator">
+  <component name="RunManager" selected="JUnit.All in serialization">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="All in comparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comparator" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="All in compartor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comparator" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -165,7 +148,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="All in monitor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in monitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="monitor" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -183,6 +166,23 @@
       <patterns />
     </configuration>
     <configuration name="All in serialization (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serialization" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in serialization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="serialization" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -238,19 +238,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in compartor (1)" />
-      <item itemvalue="JUnit.All in monitor (1)" />
       <item itemvalue="JUnit.All in serialization (1)" />
       <item itemvalue="JUnit.All in mainIO" />
       <item itemvalue="JUnit.All in comparator" />
+      <item itemvalue="JUnit.All in monitor" />
+      <item itemvalue="JUnit.All in serialization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in serialization" />
+        <item itemvalue="JUnit.All in monitor" />
         <item itemvalue="JUnit.All in comparator" />
         <item itemvalue="JUnit.All in mainIO" />
         <item itemvalue="JUnit.All in serialization (1)" />
-        <item itemvalue="JUnit.All in monitor (1)" />
-        <item itemvalue="JUnit.All in compartor (1)" />
       </list>
     </recent_temporary>
   </component>
