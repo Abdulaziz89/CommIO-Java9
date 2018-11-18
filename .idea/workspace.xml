@@ -3,86 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0eb5cd23-b30c-482f-9168-430b4859eab3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/test/mainIO/org/apache/commons/io/FileUtilsTestCase$ListDirectoryWalker.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/test/mainIO/org/apache/commons/io/FileUtilsTestCase$ListDirectoryWalker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/assembly/bin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/assembly/src.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/changes/changes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/changes/release-notes.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/compartor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/compartor/compartor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/AbstractFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/CompositeFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/DefaultFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/DirectoryFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/ExtensionFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/LastModifiedFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/NameFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/PathFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/ReverseComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/SizeFileComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/main/java/org/apache/commons/io/comparator/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/media/io-logo-white.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/media/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/resources/download_io.cgi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/resources/images/io-logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/resources/profile.clirr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/resources/profile.cobertura" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/site.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/bestpractices.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/building.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/description.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/download_io.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/issue-tracking.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/mail-lists.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/proposal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/tasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/site/xdoc/upgradeto2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/CompositeFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/DefaultFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/DirectoryFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/ExtensionFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/NameFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/PathFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/java/org/apache/commons/io/comparator/SizeFileComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/FileUtilsTestDataCR.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/FileUtilsTestDataCRLF.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/FileUtilsTestDataLF.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/testfileBOM.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/org/apache/commons/io/testfileNoBOM.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-20byteslength.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-empty.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-gbk.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-iso8859-1-shortlines-win-linebr.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-iso8859-1.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-shiftjis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-simple-utf8.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-utf16be.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-utf16le.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-utf8-cr-only.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-utf8-win-linebr.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-utf8.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-windows-31j.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-x-windows-949.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compartor/test/resources/test-file-x-windows-950.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/monitor/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monitor/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compartor/comparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/compartor/comparator.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="module-info.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/monitor/main/java/module-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,7 +52,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="996" />
     <option name="width" value="1569" />
-    <option name="height" value="1405" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +60,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,8 +84,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -199,9 +110,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in mainIO">
+  <component name="RunManager" selected="JUnit.All in comparator">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in comparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comparator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="All in compartor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comparator" />
@@ -271,29 +199,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DirectoryFileComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comparator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.apache.commons.io.comparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.apache.commons.io.comparator" />
-      <option name="MAIN_CLASS_NAME" value="org.apache.commons.io.comparator.DirectoryFileComparatorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -333,19 +238,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DirectoryFileComparatorTest" />
       <item itemvalue="JUnit.All in compartor (1)" />
       <item itemvalue="JUnit.All in monitor (1)" />
       <item itemvalue="JUnit.All in serialization (1)" />
       <item itemvalue="JUnit.All in mainIO" />
+      <item itemvalue="JUnit.All in comparator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in comparator" />
         <item itemvalue="JUnit.All in mainIO" />
         <item itemvalue="JUnit.All in serialization (1)" />
         <item itemvalue="JUnit.All in monitor (1)" />
         <item itemvalue="JUnit.All in compartor (1)" />
-        <item itemvalue="JUnit.DirectoryFileComparatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +267,7 @@
       <workItem from="1542178663754" duration="386000" />
       <workItem from="1542179144313" duration="13000" />
       <workItem from="1542179496632" duration="6000" />
+      <workItem from="1542575276603" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="improved fix test cases">
       <created>1542401911085</created>
@@ -406,61 +312,39 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5904000" />
+    <option name="totallyTimeSpent" value="6108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4988281" visible="true" weight="0.3289777" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011719" side_tool="true" visible="true" weight="0.3289777" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.496875" weight="0.3289777" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49804688" weight="0.30284396" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17929688" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4988281" visible="true" weight="0.3289777" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,6 +363,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/monitor/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainIO/test/java/org/apache/commons/io/DirectoryWalkerTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
@@ -700,10 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
           <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
-          <folding>
-            <element signature="e#14979#14980#0" expanded="true" />
-            <element signature="e#15028#15029#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +646,7 @@
     <entry file="file://$PROJECT_DIR$/src/monitor/main/java/module-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -815,7 +702,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>compartor</last-edited>
+          <last-edited>comparator</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
